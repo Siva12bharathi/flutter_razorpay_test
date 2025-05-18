@@ -23,6 +23,7 @@ class _PaymentPageState extends State<PaymentPage> {
   }
 
   void _openCheckout() {
+
     var options = {
       'key': 'rzp_test_1DP5mmOlF5G5ag', // Replace with your test key
       'amount': 5000, // Amount in paise (5000 = ₹50)
