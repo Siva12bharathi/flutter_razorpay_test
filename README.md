@@ -10,6 +10,8 @@ This is a simple Flutter application demonstrating how to integrate Razorpay Pay
 
 ## 🚀 Features
 
+
+
 - Simple and clean UI
 - Razorpay payment flow with UPI, card, wallet support
 - Works in **test mode** using Razorpay credentials
